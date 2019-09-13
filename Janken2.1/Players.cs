@@ -24,7 +24,7 @@ namespace Janken2._1
         public int WinStatus { get; set; }
 
         /// <summary>
-        /// インスタンス作成時に勝ち負け数を初期化
+        /// インスタンス作成時に勝ち数を初期化
         /// </summary>
         public AbstractPlayer()
         {
